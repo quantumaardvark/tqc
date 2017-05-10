@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  serial_number: MyString
+  shipping_date: 2017-05-10
+  shipping_time: 2017-05-10 18:07:16
+  product_model_id: 
+  software_versions: 
+  hardware_versions: 
+  operator_id: 
+
+two:
+  serial_number: MyString
+  shipping_date: 2017-05-10
+  shipping_time: 2017-05-10 18:07:16
+  product_model_id: 
+  software_versions: 
+  hardware_versions: 
+  operator_id: 
